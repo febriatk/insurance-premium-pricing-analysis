@@ -41,13 +41,13 @@ Output:
 
 ### 2. Data Cleaning
 - Missing Value Check
-<img width="809" height="346" alt="{2C1C43CB-236E-4541-BDBB-1675932E8DFE}" src="https://github.com/user-attachments/assets/3079f6d7-4db8-49fa-bb18-c93ba70d7982" />
+  <img width="809" height="346" alt="{2C1C43CB-236E-4541-BDBB-1675932E8DFE}" src="https://github.com/user-attachments/assets/3079f6d7-4db8-49fa-bb18-c93ba70d7982" />
 
-No missing values were found in the dataset
+  No missing values were found in the dataset
 - Duplicate Check
-<img width="811" height="385" alt="{7E3EE343-5B68-46FD-AEE1-58EF346D5C75}" src="https://github.com/user-attachments/assets/e2fe0d21-5cc0-4344-986d-a856ae0508d7" />
+  <img width="811" height="385" alt="{7E3EE343-5B68-46FD-AEE1-58EF346D5C75}" src="https://github.com/user-attachments/assets/e2fe0d21-5cc0-4344-986d-a856ae0508d7" />
 
-1 duplicate row found and succesfully removed
+  1 duplicate row found and succesfully removed
 - Outlier Analysis
   Boxplot analysis was performed on insurance charges
   <img width="810" height="547" alt="{F1943446-AD18-40B9-984D-2406BC8C22A0}" src="https://github.com/user-attachments/assets/66b6edfb-360c-4d02-ba32-06afb7447f05" />
